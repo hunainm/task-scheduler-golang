@@ -24,13 +24,13 @@ func (cfg *Configs) HTTP() (*http.Config, error) {
 
 func (cfg *Configs) Datastore() (*datastore.Config, error) {
 	return &datastore.Config{
-		Host:   "castor.db.elephantsql.com",
+		Host:   os.Getenv("DBHOST"),
 		Port:   "5432",
 		Driver: "postgres",
 
 		StoreName: "mjonszhl",
-		Username:  "mjonszhl",
-		Password:  "HgvnbQq98IwO_ARtV0kzGc0BwfaqMDFI",
+		Username:  os.Getenv("DBUSER"),
+		Password:  os.Getenv("DBPASS"),
 
 		SSLMode: "",
 
