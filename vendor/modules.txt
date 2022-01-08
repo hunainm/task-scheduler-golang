@@ -1,0 +1,188 @@
+# github.com/Masterminds/squirrel v1.5.1
+## explicit; go 1.14
+github.com/Masterminds/squirrel
+# github.com/armon/go-radix v1.0.0
+## explicit
+github.com/armon/go-radix
+# github.com/bnkamalesh/errors v0.4.0
+## explicit; go 1.14
+github.com/bnkamalesh/errors
+# github.com/bnkamalesh/webgo/v6 v6.2.2
+## explicit; go 1.17
+github.com/bnkamalesh/webgo/v6
+github.com/bnkamalesh/webgo/v6/middleware/accesslog
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+## explicit
+github.com/dgrijalva/jwt-go
+# github.com/elastic/go-licenser v0.4.0
+## explicit; go 1.13
+github.com/elastic/go-licenser
+github.com/elastic/go-licenser/licensing
+# github.com/elastic/go-sysinfo v1.7.1
+## explicit; go 1.13
+github.com/elastic/go-sysinfo
+github.com/elastic/go-sysinfo/internal/registry
+github.com/elastic/go-sysinfo/providers/aix
+github.com/elastic/go-sysinfo/providers/darwin
+github.com/elastic/go-sysinfo/providers/linux
+github.com/elastic/go-sysinfo/providers/shared
+github.com/elastic/go-sysinfo/providers/windows
+github.com/elastic/go-sysinfo/types
+# github.com/elastic/go-windows v1.0.1
+## explicit
+github.com/elastic/go-windows
+# github.com/gomodule/redigo v1.8.5
+## explicit; go 1.14
+# github.com/jackc/chunkreader/v2 v2.0.1
+## explicit; go 1.12
+github.com/jackc/chunkreader/v2
+# github.com/jackc/pgconn v1.10.0
+## explicit; go 1.12
+github.com/jackc/pgconn
+github.com/jackc/pgconn/internal/ctxwatch
+github.com/jackc/pgconn/stmtcache
+# github.com/jackc/pgio v1.0.0
+## explicit; go 1.12
+github.com/jackc/pgio
+# github.com/jackc/pgpassfile v1.0.0
+## explicit; go 1.12
+github.com/jackc/pgpassfile
+# github.com/jackc/pgproto3/v2 v2.1.1
+## explicit; go 1.12
+github.com/jackc/pgproto3/v2
+# github.com/jackc/pgservicefile v0.0.0-20200714003250-2b9c44734f2b
+## explicit; go 1.14
+github.com/jackc/pgservicefile
+# github.com/jackc/pgtype v1.8.1
+## explicit; go 1.13
+github.com/jackc/pgtype
+# github.com/jackc/pgx/v4 v4.13.0
+## explicit; go 1.13
+github.com/jackc/pgx/v4
+github.com/jackc/pgx/v4/internal/sanitize
+github.com/jackc/pgx/v4/pgxpool
+# github.com/jackc/puddle v1.1.3
+## explicit; go 1.12
+github.com/jackc/puddle
+# github.com/jcchavezs/porto v0.4.0
+## explicit; go 1.15
+github.com/jcchavezs/porto
+# github.com/joeshaw/multierror v0.0.0-20140124173710-69b34d4ec901
+## explicit
+github.com/joeshaw/multierror
+# github.com/joho/godotenv v1.4.0
+## explicit; go 1.12
+github.com/joho/godotenv
+# github.com/lann/builder v0.0.0-20180802200727-47ae307949d0
+## explicit
+github.com/lann/builder
+# github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0
+## explicit
+github.com/lann/ps
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/prometheus/procfs v0.7.3
+## explicit; go 1.13
+github.com/prometheus/procfs
+github.com/prometheus/procfs/internal/fs
+github.com/prometheus/procfs/internal/util
+# github.com/santhosh-tekuri/jsonschema v1.2.4
+## explicit
+github.com/santhosh-tekuri/jsonschema
+github.com/santhosh-tekuri/jsonschema/decoders
+github.com/santhosh-tekuri/jsonschema/formats
+github.com/santhosh-tekuri/jsonschema/loader
+github.com/santhosh-tekuri/jsonschema/mediatypes
+# github.com/sendgrid/rest v2.6.6+incompatible
+## explicit
+github.com/sendgrid/rest
+# github.com/sendgrid/sendgrid-go v3.10.4+incompatible
+## explicit
+github.com/sendgrid/sendgrid-go
+github.com/sendgrid/sendgrid-go/helpers/mail
+# go.elastic.co/apm v1.14.0
+## explicit; go 1.13
+go.elastic.co/apm
+go.elastic.co/apm/apmconfig
+go.elastic.co/apm/internal/apmcloudutil
+go.elastic.co/apm/internal/apmcontext
+go.elastic.co/apm/internal/apmhostutil
+go.elastic.co/apm/internal/apmhttputil
+go.elastic.co/apm/internal/apmlog
+go.elastic.co/apm/internal/apmschema
+go.elastic.co/apm/internal/apmstrings
+go.elastic.co/apm/internal/apmversion
+go.elastic.co/apm/internal/configutil
+go.elastic.co/apm/internal/iochan
+go.elastic.co/apm/internal/pkgerrorsutil
+go.elastic.co/apm/internal/ringbuffer
+go.elastic.co/apm/internal/wildcard
+go.elastic.co/apm/model
+go.elastic.co/apm/stacktrace
+go.elastic.co/apm/transport
+# go.elastic.co/apm/module/apmhttp v1.14.0
+## explicit; go 1.13
+go.elastic.co/apm/module/apmhttp
+# go.elastic.co/fastjson v1.1.0
+## explicit; go 1.14
+go.elastic.co/fastjson
+# golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
+## explicit; go 1.17
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/pbkdf2
+# golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
+## explicit; go 1.11
+golang.org/x/lint
+golang.org/x/lint/golint
+# golang.org/x/mod v0.5.1
+## explicit; go 1.17
+golang.org/x/mod/internal/lazyregexp
+golang.org/x/mod/modfile
+golang.org/x/mod/module
+golang.org/x/mod/semver
+# golang.org/x/sys v0.0.0-20211103235746-7861aae1554b
+## explicit; go 1.17
+golang.org/x/sys/execabs
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+golang.org/x/sys/windows/registry
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
+golang.org/x/text/cases
+golang.org/x/text/internal
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/secure/bidirule
+golang.org/x/text/secure/precis
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/width
+# golang.org/x/tools v0.1.7
+## explicit; go 1.17
+golang.org/x/tools/cmd/goimports
+golang.org/x/tools/go/ast/astutil
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/gcimporter
+golang.org/x/tools/internal/event
+golang.org/x/tools/internal/event/core
+golang.org/x/tools/internal/event/keys
+golang.org/x/tools/internal/event/label
+golang.org/x/tools/internal/fastwalk
+golang.org/x/tools/internal/gocommand
+golang.org/x/tools/internal/gopathwalk
+golang.org/x/tools/internal/imports
+golang.org/x/tools/internal/typeparams
+# golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
+## explicit; go 1.11
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
+# howett.net/plist v0.0.0-20201203080718-1454fab16a06
+## explicit
+howett.net/plist
